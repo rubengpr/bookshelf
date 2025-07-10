@@ -35,7 +35,7 @@ STRIPE_WEBHOOK_SECRET=whsec_your_webhook_secret_here  # Optional for now
   - Use test card numbers (e.g., `4242424242424242`)
   - No real money is charged
 
-- **Live keys** (for production only):
+- **Live keys** (for production only)
   - Secret key starts with `sk_live_`
   - Publishable key starts with `pk_live_`
   - Real money will be charged
